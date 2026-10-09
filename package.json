@@ -1,0 +1,15 @@
+{
+  "name": "roomspace-vr-interior-design",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.180.0",
+    "vite": "^7.1.7"
+  }
+}
